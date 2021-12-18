@@ -1,0 +1,75 @@
+@media only screen and (min-width: 1299px) {
+	nav {
+		padding: 40px 100px!important;
+	}
+	.landingPage {
+		padding: 0px 210px!important;
+	}
+}
+
+@media only screen and (min-width: 577px) {
+	nav {
+		padding: 20px 50px;
+	}
+	.landingPage {
+		padding: 0px 110px;
+	}
+	.navbar-nav {
+		max-width: 60%;
+	}
+	.phone{
+		margin-top: 150px;
+	}
+	.phone img {
+		width: 200%;
+		position: absolute;
+		right: 0px;
+		margin-top: -120px;
+		margin-right: -150px
+	}
+}
+
+@media only screen and (max-width: 576px) {
+	.mfo-35 {
+		font-size: 35px!important;
+	}
+	.mfo-32 {
+		font-size: 32px!important;
+	}
+	.mfo-28 {
+		font-size: 28px!important;
+	}
+	.mfo-25 {
+		font-size: 25px!important;
+	}
+	.mfo-20 {
+		font-size: 20px;
+	}
+	.mfo-17 {
+		font-size: 17px!important;
+	}
+	.mfo-16 {
+		font-size: 16px!important;
+	}
+	.mfo-13 {
+		font-size: 13px!important;
+	}
+	.mfo-12 {
+		font-size: 12px!important;
+	}
+	.mfo-11 {
+		font-size: 11px!important;
+	}
+	.mow-90 {
+		width: 90%!important;
+	}
+	.mlh-19 {
+		line-height: 1.9em;
+	}
+	nav {
+		padding: 10px 25px!important;
+	}
+	.phone img {
+		width: 100%
+	}
+}

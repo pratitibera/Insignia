@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@600&family=Montserrat:wght@600&family=Open+Sans+Condensed:wght@700&display=swap');
+
+/* Font families */
+
+.exo {
+	font-family: 'Exo', sans-serif;
+}
+
+.mont {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.opensans {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+/* Globacl classes */
+
+.text-purple {
+	color: #3E205A;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.w-70 {
+	width: 70%;
+}
+
+.w-80 {
+	width: 80%;
+}
+
+.w-100 {
+	width: 100%;
+}
+
+.vh-85 {
+	height: 85vh;
+}
+
+.fo-12 {
+	font-size: 12px;
+}
+
+.fo-13 {
+	font-size: 13px;
+}
+
+.fo-14 {
+	font-size: 14px;
+}
+
+.fo-18 {
+	font-size: 18px;
+}
+
+.fo-20 {
+	font-size: 20px;
+}
+
+.fo-21 {
+	font-size: 21px;
+}
+
+.fo-22 {
+	font-size: 22px;
+}
+
+.fo-24 {
+	font-size: 24px;
+}
+
+.fo-26 {
+	font-size: 26px;
+}
+
+.fo-30 {
+	font-size: 30px;
+}
+
+.fo-40 {
+	font-size: 40px;
+}
+
+.fo-52 {
+	font-size: 52px;
+}
+
+.fo-55 {
+	font-size: 55px;
+}
+
+.fw-400 {
+	font-weight: 400;
+}
+
+.fw-600 {
+	font-weight: 600;
+}
+
+.fw-700 {
+	font-weight: 700;
+}
+
+.fw-800 {
+	font-weight: 800;
+}
+
+.bg-grey {
+	background-color: #f1f1f1;
+}
+
+.bco {
+	color: #30FBEF;
+}
+
+.text-purple{
+	color: #9C69E2;
+}
+
+.website-button {
+	background: #282828;
+	box-shadow: 4px 3px 8px rgba(0, 0, 0, 0.25), -3px -3px 8px rgba(75, 93, 104, 0.1);
+	border-radius: 50px;
+	color: #30FBEF;
+	padding: 8px 32px;
+}
+
+/* Navbar */
+
+.navbar-nav .active {
+	color: #30FBEF;
+}
+
+.nav-link {
+	color: #fff;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+	padding-right: 1.5rem;
+	padding-left: 1.5rem;
+}
+
+.nav-item i {
+	color: #9C69E2;
+	margin-left: 5px;
+}
+
+/* Main body */
+
+.sectionDivs {
+	background: radial-gradient(38.2% 50% at 50% 50%, #2E3134 0%, #292B2E 100%);
+	border: 2px solid #272829;
+	box-shadow: inset 2px 2px 40px rgba(0, 0, 0, 0.3);
+	border-radius: 50px;
+}
+
+/* Features */
+.features .card{
+	background: #212121;
+	box-shadow: 9px 9px 10px rgba(0, 0, 0, 0.25), -9px -9px 10px rgba(75, 93, 104, 0.1);
+	border-radius: 50px;
+}
